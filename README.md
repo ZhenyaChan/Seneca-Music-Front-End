@@ -9,7 +9,7 @@ This project was created using Angular and Spotify data.
 
 - Back-End Heroku Link: https://seneca-music-user-api.herokuapp.com/
 
-- Github Front-End Repository Link: https://github.com/ZhenyaChan/Rest-Inn-Front-End
+- Github Front-End Repository Link: https://github.com/ZhenyaChan/Seneca-Music-Front-End
 
 - Github Back-End Repository Link: https://github.com/ZhenyaChan/SenecaMusic-Back-End
 
