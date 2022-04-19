@@ -3,14 +3,15 @@
 ## Summary
 This project was created using Angular and Spotify data.
 
-## Production Link(Netify): 
-- https://github.com/ZhenyaChan/Seneca-Music-Front-End
-## Back-End Heroku Link:
-- https://seneca-music-user-api.herokuapp.com/
-## Github Front-End Repository Link: 
-- https://github.com/ZhenyaChan/Rest-Inn-Front-End
-## Github Back-End Repository Link:
-- https://github.com/ZhenyaChan/SenecaMusic-Back-End
+## Project Links:
+ 
+- Production Link(Netify): https://github.com/ZhenyaChan/Seneca-Music-Front-End
+
+- Back-End Heroku Link: https://seneca-music-user-api.herokuapp.com/
+
+- Github Front-End Repository Link: https://github.com/ZhenyaChan/Rest-Inn-Front-End
+
+- Github Back-End Repository Link: https://github.com/ZhenyaChan/SenecaMusic-Back-End
 
 ## Running the App
 
